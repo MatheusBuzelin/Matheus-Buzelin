@@ -1,13 +1,11 @@
 # Matheus Buzelin
 
 ## Olá pessoal 👋
-🎓 Meu nome é Alexia Kattah, sou Engenheira da Computação, Amazon Cloud Certified e Senior Software Engineer.
+🎓 Meu nome é Matheus Buzelin, atualmente estou migrando de carreira.
 
-👩🏻‍💻 Sou desenvolvedora de software desde 2015, já atuei como CTO, liderei equipes e programei diversos sistemas web ao longo de minha carreira.
+🏆 Sempre dou o meu melhor em todos os projetos dos quais eu participo e, por isso, procuro oportunidades para agregar valor, visando estabelecer a empresa como referência no setor e , consequentemente, me tornar um profissional cada vez mais capacitado.
 
-🏆 Atualmente sou Software Engineer em uma empresa na gringa 🇺🇸 e instrutora na Hero Code
-
-🎯 Meu objetivo é alcançar o máximo de pessoas possíveis com meus conteúdos e treinamentos e conseguir transformar vidas através da programação
+🎯 Meu objetivo é aprender o máximo de conteúdos possíveis para me tornar um desenvolvedor FullStack.
 
 💜 Seja muito bem vindo ao meu Github!
 
@@ -20,5 +18,5 @@
 
 ## Você também me encontra em:
 <a href="https://www.linkedin.com/in/matheus-buzelin-962a1515a/">
-<img src="https://github.com/user-attachments/assets/79456ab3-5dbb-4877-8a35-b97d5d554924"/>
+<img src="https://github.com/user-attachments/assets/0e5452c7-e6d1-4b88-80a1-78b5b34391d4">
 </a>
