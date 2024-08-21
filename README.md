@@ -15,7 +15,11 @@
 
 <img width="50" height="50" src="https://github.com/user-attachments/assets/9a62d82b-382a-410b-a8dd-7c754214f204"/>
 <img width="50" height="50" src="https://github.com/user-attachments/assets/002d10b5-8af4-4fe6-9529-0f76831f813d"/>
+<img width="50" height="50" src="https://github.com/user-attachments/assets/a2eff204-fc60-4a57-b186-1aafa40fc2b2"/>
 <img width="50" height="50" src="https://github.com/user-attachments/assets/79456ab3-5dbb-4877-8a35-b97d5d554924"/>
+<img width="50" height="50" src="https://github.com/user-attachments/assets/a73d6f80-5dc1-4bf2-8b55-55fdd6c72599"/>
+
+
 
 ## Você também me encontra em:
 <a href="https://www.linkedin.com/in/matheus-buzelin-962a1515a/">
