@@ -2,8 +2,6 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Matheus+Buzelin+;Tenho+29+anos+;Sou+de+Belo+Horizonte,+MG;Sou+estudante+de+programação;Bem+Vindo!+:%29)](https://git.io/typing-svg) 
 
-# Matheus Buzelin
-
 ## Olá pessoal 👋
 🎓 Meu nome é Matheus Buzelin, atualmente estou migrando de carreira.
 
@@ -11,9 +9,8 @@
 
 🎯 Meu objetivo é aprender o máximo de conteúdos possíveis para me tornar um desenvolvedor FullStack.
 
-💜 Seja muito bem vindo ao meu Github!
 
-## Minhas habilidades
+## Habilidades
 <div display="inline">
 
 <img width="50" height="50" src="https://github.com/user-attachments/assets/9a62d82b-382a-410b-a8dd-7c754214f204"/>
