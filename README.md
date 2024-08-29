@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Matheus+Buzelin+;Tenho+29+anos+;Sou+de+Belo+Horizonte,+MG;Sou+estudante+de+programação;Bem+Vindo!+:%29)](https://git.io/typing-svg) 
 
 ## Olá pessoal 👋
-<div display="inline">
+
 🎓 Meu nome é Matheus Buzelin, atualmente estou migrando de carreira.
 🌱 Atualmente estou aprendendo .Net e C#;
 🔍 Estou buscando minha primeira experiência como desenvolvedor;
