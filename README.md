@@ -8,10 +8,10 @@
 🌱 Atualmente estou aprendendo .Net e C#;
 🔍 Estou buscando minha primeira experiência como desenvolvedor;
 📫 Como entrar em contato comigo: matheuslive84@hotmail.com ;
-
+🎯 Meu objetivo é aprender o máximo de conteúdos possíveis para me tornar um desenvolvedor FullStack.
 🏆 Sempre dou o meu melhor em todos os projetos dos quais eu participo e, por isso, procuro oportunidades para agregar valor, visando estabelecer a empresa como referência no setor e , consequentemente, me tornar um profissional cada vez mais capacitado.
 
-🎯 Meu objetivo é aprender o máximo de conteúdos possíveis para me tornar um desenvolvedor FullStack.
+
 
 
 ## Habilidades
