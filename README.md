@@ -6,7 +6,7 @@
 
 🎓 Meu nome é Matheus Buzelin, atualmente estou migrando de carreira;
 
-🌱 Atualmente estou aprendendo .Net e C#;
+🌱 Atualmente estou aprendendo Python;
 
 🔍 Estou buscando minha primeira experiência como desenvolvedor;
 
