@@ -4,13 +4,13 @@
 
 ## Olá pessoal 👋
 
-🎓 Meu nome é Matheus Buzelin, atualmente estou migrando de carreira;
+🎓 Meu nome é Matheus Buzelin, estou migrando de carreira;
 
 🌱 Atualmente estou aprendendo Python;
 
 🔍 Estou buscando minha primeira experiência como desenvolvedor;
 
-📫 Como entrar em contato comigo: matheuslive84@hotmail.com ;
+📫 Como entrar em contato comigo: matheuslive84@hotmail.com;
 
 🎯 Meu objetivo é aprender o máximo de conteúdos possíveis para me tornar um desenvolvedor FullStack;
 
