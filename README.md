@@ -6,7 +6,7 @@
 
 🎓 Meu nome é Matheus Buzelin, estou migrando de carreira;
 
-🌱 Atualmente estou aprendendo Python;
+🌱 Atualmente estou aprendendo PHP;
 
 🔍 Estou buscando minha primeira experiência como desenvolvedor;
 
