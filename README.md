@@ -28,12 +28,15 @@
 <img width="40" height="40" src="https://github.com/user-attachments/assets/79456ab3-5dbb-4877-8a35-b97d5d554924"/>
 <img width="40" height="40" src="https://github.com/user-attachments/assets/a73d6f80-5dc1-4bf2-8b55-55fdd6c72599"/>
 <img width="40" height="40" src="https://github.com/user-attachments/assets/3a96255e-6c02-4d11-9e4b-2b83307192d2"/>
-<img width="40" height="40" src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"/>
-<img width="40" height="40" src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"/>
+
 <img width="40" height="40" src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"/>
 <img width="40" height="40" src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"/>
 <img width="40" height="40" src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"/>
 <img width="40" height="40" src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"/>
+<img width="40" height="40" src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"/>
+<img width="40" height="40" src="https://github.com/user-attachments/assets/a73d6f80-5dc1-4bf2-8b55-55fdd6c72599"/>
+<img width="40" height="40" src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"/>
+<img width="40" height="40" src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"/>
 
 ###
 
