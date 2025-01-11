@@ -29,6 +29,9 @@
 <img width="50" height="50" src="https://github.com/user-attachments/assets/a73d6f80-5dc1-4bf2-8b55-55fdd6c72599"/>
 <img width="50" height="50" src="https://github.com/user-attachments/assets/3a96255e-6c02-4d11-9e4b-2b83307192d2"/>
 <img width="50" height="50" src="://skillicons.dev/icons?i=php" hei"/>
+ <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img width="12" />
+
 
 
 
