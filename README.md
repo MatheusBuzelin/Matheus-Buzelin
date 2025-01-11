@@ -28,7 +28,7 @@
 <img width="50" height="50" src="https://github.com/user-attachments/assets/79456ab3-5dbb-4877-8a35-b97d5d554924"/>
 <img width="50" height="50" src="https://github.com/user-attachments/assets/a73d6f80-5dc1-4bf2-8b55-55fdd6c72599"/>
 <img width="50" height="50" src="https://github.com/user-attachments/assets/3a96255e-6c02-4d11-9e4b-2b83307192d2"/>
-<img width="50" height="50" src="![PHP Logo](https://www.php.net/images/logos/php-logo.svg)"/>
+<img width="50" height="50" src="[![PHP Logo](https://www.php.net/images/logos/php-logo.svg)](https://camo.githubusercontent.com/99e1db04943c0369ac07027424b67b79c5905d0356a01f0c92c5f41f7a7b1bc1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f7068702f7068702d6f726967696e616c2e737667)"/>
 
 
 
