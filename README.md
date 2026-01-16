@@ -4,11 +4,11 @@
 
 ## Olá pessoal 👋
 
-🎓 Meu nome é Matheus Buzelin, estou migrando de carreira;
+🎓 Meu nome é Matheus Buzelin;
 
-🌱 Atualmente estou aprendendo PHP;
+🌱 Atualmente estou aprendendo PHP, Python e MYSQL;
 
-🔍 Estou buscando minha primeira experiência como desenvolvedor;
+🔍 Estou buscando uma oportunidade como desenvolvedor;
 
 📫 Como entrar em contato comigo: matheuslive84@hotmail.com;
 
